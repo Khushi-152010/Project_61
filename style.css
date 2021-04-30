@@ -1,0 +1,108 @@
+body{background: rgb(160,100,255);
+background: radial-gradient(circle, rgba(160,100,255,1) 0%, rgba(132,214,242,1) 55%, rgba(31,255,221,1) 100%);
+text-align:center;}
+
+
+#img{
+    margin-top:50px;
+ height:150px;
+   border-radius:50%;
+ 
+}
+#bio{
+  text-align: right;
+  padding:10px;
+  font-size:30px;
+}
+#h1{
+  text-shadow:4px 2px #CE93D8;
+  font-family: 'Akaya Kanadaka', cursive;
+    font-size: 50px;
+  
+}
+html{
+    scroll-behavior: smooth;
+}
+.img{
+    height: 400px;
+    width: 350px;
+}
+h2{
+font-size: 40px;
+}
+h3{
+font-size: 40px;
+}
+.img2{
+    height: 400px;
+        width: 350px;
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+.img2:hover{
+    transform: scale(0.9);
+}
+h4{
+    font-size: 40px;
+}
+#directions{
+    font-family: cursive;
+        font-size: 30px;
+}
+#fk{
+    font-size: 35px;
+}
+#cm{
+    font-size: 35px;
+}
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 35px;
+}
+.links:hover{
+    font-size: 40px;
+    text-decoration: underline;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+    font-family: cursive;
+    font-size: 35px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+contacts iframe{
+    width: 100%;
+}
+h5{
+    font-size: 40px;
+}
+contact_1 a{
+    color:white;
+    text-shadow: none;
+}
+contact_1 h3{
+    display: inline;
+}
+h6{
+    font-size: 25px;
+}
